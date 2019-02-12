@@ -1,4 +1,6 @@
-# BasicComponents
+# Basic Components
+## Udemy Angular 7 Complete Guide Assignment 01: Basic Components
+Assigned by: *Maximilian Schwarzmüller*. Thank you, Max!
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.1.
 
